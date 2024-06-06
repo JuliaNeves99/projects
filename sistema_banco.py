@@ -62,7 +62,6 @@ while True:
 
     elif opcao == "0":
         break
-        print ("Obrigada por ser nosso cliente!")
 
     else:
         print("Operação inválida, por favor selecione novamente a operação desejada.")
